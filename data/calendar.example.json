@@ -1,0 +1,22 @@
+[
+  {
+    "id": "scholarship-2026-001",
+    "title": "校內獎助學金申請開跑",
+    "category": "獎助學金",
+    "startDate": "2026-10-01",
+    "endDate": "2026-10-20",
+    "url": "https://school.example/ann/123",
+    "audience": "全體",
+    "description": "申請資格與應備文件見連結，逾期不受理。"
+  },
+  {
+    "id": "talk-2026-011",
+    "title": "資工系專題講座：生成式 AI 實務",
+    "category": "講座",
+    "startDate": "2026-11-05",
+    "endDate": "2026-11-05",
+    "url": "https://school.example/ann/456",
+    "audience": "資工系",
+    "description": "地點系館 301，需事先報名。"
+  }
+]
