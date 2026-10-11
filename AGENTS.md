@@ -20,7 +20,7 @@ Do not add unrelated notices.
 
 ## Required workflow for the scheduled sync
 
-1. Start from a clean checkout of `main`.
+1. Start from a clean Codex task workspace based on `origin/main`. Codex Cloud may use an isolated task branch such as `work`; the local branch name does not need to be `main`. Publishing must still target `origin/main` through `scripts/publish_calendar.sh`.
 2. Read `data/calendar.example.json`.
 3. Read the complete current `data/calendar.json`. Never assume the previous dataset is empty.
 4. Search official UCH pages, prioritizing:
